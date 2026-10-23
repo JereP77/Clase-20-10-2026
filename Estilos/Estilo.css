@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+
+.fondovioleta{
+    background-color: rgb(129, 88, 153);
+}
+
+h2{
+    background-color: rgb(178, 211, 116);
+    font-family: 'Arial', sans-serif;
+}
+
+#tituloprincipal{
+    background-color: rgb(14  , 100, 200);
+    font-family: 'Arial', sans-serif;
+}
+
+button{
+    display: block;
+    background-color: rgb(2, 148, 158);
+}
